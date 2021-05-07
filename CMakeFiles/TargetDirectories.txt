@@ -1,0 +1,3 @@
+/home/jack-ma/owt-client-native-lib/CMakeFiles/rebuild_cache.dir
+/home/jack-ma/owt-client-native-lib/CMakeFiles/owt_conf_sample.dir
+/home/jack-ma/owt-client-native-lib/CMakeFiles/edit_cache.dir
